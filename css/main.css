@@ -4,7 +4,6 @@ html {
 }
 
 body {
-    display: flex;
     background-color: #90E0EF;
     padding-bottom: 75px;
 }
@@ -41,4 +40,10 @@ img {
 
 .list dd:last-of-type {
     margin-right: 60px;
+}
+
+footer {
+    float: right;
+    padding: 15px 10px;
+    font-size: 0.7rem;
 }
